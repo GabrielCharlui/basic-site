@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 600px) {
 	p {
-		background-image: linear-gradient(to right, blue, red);
+		background-image: linear-gradient(to right, #FFEB3B, #00d7ff);
 		box-shadow: 10px 10px 5px grey;
 	}
 }
